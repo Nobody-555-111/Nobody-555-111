@@ -48,8 +48,6 @@
 
 ---
 
-### 👁️ Profile Visitors
-
 <p align="center">
   <font size="2">Always pushing the boundaries of cybersecurity | Digital guardian</font>
 </p>
