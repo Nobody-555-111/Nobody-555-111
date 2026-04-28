@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong><font size="5">⚔️ Nobody-555-111</font></strong><br>
+  <strong><font size="8"> Nobody-555-111</font></strong><br>
   <font color="#B5BAC1">@nobody_sec · Security Researcher & Exploit Developer</font><br>
   <br>
   <img src="https://img.shields.io/badge/Active%20in%20Security%20Research-23A55A?style=flat-square&logo=discord&logoColor=white">
@@ -11,23 +11,13 @@
 
 ---
 
-### 🛡️ About Me
+###  About Me 
 
-> 🔐 Crafting advanced tools for penetration testing and exploit development.  
-> 🐍 Python & C++ developer focused on offensive security.  
-> 🎯 Mission: Finding vulnerabilities before the bad guys do.
+> Crafting advanced tools for penetration testing and exploit development.  
+> Python & C++ developer focused on offensive security.  
 
----
 
-### 📊 Quick Stats
-
-| Category | Value |
-| :--- | :--- |
-| Open Source Projects | **15+** |
-| Security Tools Developed | **8** |
-| Penetration Testing Level | **Expert** |
-
----
+--
 
 ### 🛠️ Tech Arsenal
 
@@ -35,7 +25,7 @@
 
 ---
 
-### 📌 Featured Security Projects
+### Featured Security Projects
 
 | Project | Description |
 | :--- | :--- |
