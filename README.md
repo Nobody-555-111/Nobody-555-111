@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nobody-555-111&show_icons=true&theme=dark&bg_color=0D1117&title_color=5865F2&icon_color=5865F2&border_color=2B2D31&hide_border=true" width="45%">
