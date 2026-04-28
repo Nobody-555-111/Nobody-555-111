@@ -17,7 +17,7 @@
 > Python & C++ developer focused on offensive security.  
 
 
---
+---
 
 ### 🛠️ Tech Arsenal
 
@@ -49,10 +49,6 @@
 ---
 
 ### 👁️ Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nobody-555-111&label=Profile+Visitors&color=5865F2&style=flat-square">
-</p>
 
 <p align="center">
   <font size="2">Always pushing the boundaries of cybersecurity | Digital guardian</font>
