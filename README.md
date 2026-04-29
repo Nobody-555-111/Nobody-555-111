@@ -29,7 +29,7 @@
 
 | Project | Description |
 | :--- | :--- |
-| **NetSpector** | Advanced network reconnaissance and device discovery framework. *(Python, Scapy)* |
+| **NetSpector** | Advanced network reconnaissance and device discovery framework  . *(Python, Scapy)* |
 | **C++ Keylogger Simulator** | Educational keystroke injection and input monitoring. *(C++, WinAPI)* |
 | **Web Vuln Scanner** | Automated web application security scanner. *(Python, Requests)* |
 
